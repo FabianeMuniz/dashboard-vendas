@@ -1,5 +1,3 @@
-# dashboard-vendas
-Dashboard gestão de vendas
 # 📊 Dashboard Power BI – Análise de Dados
 
 ## 📌 Descrição
