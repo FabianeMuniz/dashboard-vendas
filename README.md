@@ -25,12 +25,12 @@ dos dados fora da ferramenta de BI.
 ![Dashboard](imagens/dashboard-gestao-de-vendas.jpg)
 
 ## 📁 Estrutura do Projeto
-dashboard-powerbi/
-├── dashboard.pbix
-├── dados/
-├── scripts/
-├── imagens/
-└── README.md
+- dashboard-powerbi/
+- ├── dashboard.pbix
+- ├── dados/
+- ├── scripts/
+- ├── imagens/
+- └── README.md
 
 ## 👩‍💻 Autora
 Fabiane Muniz
