@@ -10,7 +10,7 @@ O projeto é voltado para fins de **aprendizado, portfólio profissional e versi
 
 Abaixo está uma visualização do dashboard desenvolvido a partir dos dados tratados em Python:
 
-![Dashboard Power BI](imagens/dashboard-gestao-de-vendas.png)
+![Dashboard Power BI](Imagens/dashboard-gestao-de-vendas.png)
 
 ---
 
